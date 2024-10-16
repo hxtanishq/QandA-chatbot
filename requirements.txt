@@ -1,0 +1,18 @@
+langchain
+ipykernel
+langchain-community
+# chromadb
+pandas
+# langchain_FAISS
+# tensorflow==2.15.0
+pandas 
+numpy 
+# scikit-learn
+# tensorboard
+# matplotlib
+streamlit
+# scikeras
+langchain_groq
+langchain_huggingface
+faiss-gpu
+pypdf
